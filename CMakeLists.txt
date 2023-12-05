@@ -24,5 +24,6 @@ if (NOT raylib_FOUND)
 endif()
 
 add_subdirectory(sources/pong)
+add_subdirectory(sources/snake)
 
 
